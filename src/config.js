@@ -1,9 +1,10 @@
+
 export default {
     TOKENS: [
            "token", // token 1
            "token", // token 2
-           "token", // token 3      // ! Yardıma ihtiyacın varsa bana Instagram veya Discord üzerinden ulaş l1ve709/wwww.selfhackerz.xyz
-           "YOUR_TOKEN", // token 4      // ! If you need help? Contacnt me on Instagram or Discord l1ve709/wwww.selfhackerz.xyz
+           "token", // token 3      // ! Yardıma ihtiyacın varsa bana Instagram veya Discord üzerinden ulaş cxnsole/wwww.selfhackerz.xyz
+           "YOUR_TOKEN", // token 4      // ! If you need help? Contacnt me on Instagram or Discord cxnsole/wwww.selfhackerz.xyz
            "YOUR_TOKEN", // token 4
            "YOUR_TOKEN", // token 5    
            "YOUR_TOKEN", // token 6
@@ -52,3 +53,4 @@ export default {
         { mute: false, deaf: false }    
     ]
 };
+
