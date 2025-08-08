@@ -64,8 +64,8 @@ Başlatıldığında her bir kullanıcı tokeni belirttiğiniz sunucuya ve ses k
 
 İletişim ve yardım için bana şuralardan ulaşabilirsiniz:
 
-- Instagram: l1ve709
-- Discord: l1ve709
+- Instagram: ediz.dll
+- Discord: cxnsole
 - Web Sitesi: [l1ve709.com](https://www.l1ve709.com)
 
 ## Lisans Bilgileri
